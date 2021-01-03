@@ -13,7 +13,7 @@ const nextBtn = document.getElementById('next');
 // Music
 const songs = [
   {
-    name: 'still',
+    name: 'Still',
     displayName: 'Still',
     artist: 'Hillsong',
   },
